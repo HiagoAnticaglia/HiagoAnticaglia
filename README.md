@@ -19,7 +19,8 @@
   
 </div><br/>
 
-Futuro Dev.Full-Stacker. Habilidades <HTML!> / <CSS/> / <JAVASCRIPT/> / <MySQL/> // <FrameWorks> {BootStrap} 
-
+Future Dev.Full-Stacker. Habilidades { 
+<HTML!>  <CSS/>  <JAVASCRIPT/>  <MySQL/>  <FrameWorks> {BootStrap} 
+}
 
 ![Snake animation](https://github.com/HiagoAnticaglia/HiagoAnticaglia/blob/output/github-contribution-grid-snake.svg)
