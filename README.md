@@ -24,3 +24,6 @@ Future Dev.Full-Stacker. Habilidades {
 }
 
 ![Snake animation](https://github.com/HiagoAnticaglia/HiagoAnticaglia/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/gustavocassioli/gustavocassioli/blob/output/github-contribution-grid-snake.svg)
+
