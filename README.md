@@ -19,7 +19,7 @@
   
 </div><br/>
 
-Future Dev.Full-Stacker - Habilidades { 
+Future Dev.Full-Stacker - Skills { 
 HTML,  CSS,  JavaScript,  MySQL,  FrameWorks BootStrap 
 }
 
