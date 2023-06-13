@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá eu sou o Luis Gustavo Cassioli 👦
 
-<!--
-**HiagoAnticaglia/HiagoAnticaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiagoAnticaglia)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![HiagoAnticaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=HiagoAnticaglia&show_icons=true&theme=radical)
+
+### Tecnologias que eu utilizo no dia-a-dia
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ 
+  
+  <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  
+  
+</div><br/>
+
+Futuro Dev.Full-Stacker. Habilidades <HTML!> / <CSS/> / <JAVASCRIPT/> / <MySQL/> // <FrameWorks> {BootStrap} 
+
+
+![Snake animation](https://github.com/HiagoAnticaglia/HiagoAnticaglia/blob/output/github-contribution-grid-snake.svg)
