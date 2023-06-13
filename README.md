@@ -19,11 +19,12 @@
   
 </div><br/>
 
-Future Dev.Full-Stacker. Habilidades { 
-HTML  CSS  JAVASCRIPT  MySQL  FrameWorks BootStrap 
+Future Dev.Full-Stacker - Habilidades { 
+HTML,  CSS,  JAVASCRIPT,  MySQL,  FrameWorks BootStrap 
 }
 
 
   
-  ![Snake animation](https://github.com/hiagoanticaglia/hiagoanticaglia/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gustavocassioli/gustavocassioli/blob/output/github-contribution-grid-snake.svg)
+
 
